@@ -1,0 +1,7 @@
+"./Drivers/Src/stm32f407disc1_gpio_driver.o"
+"./Drivers/Src/stm32f407disc1_i2c_driver.o"
+"./Drivers/Src/stm32f407disc1_spi_driver.o"
+"./Src/ex7_spiArduinoINT.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f407vgtx.o"
